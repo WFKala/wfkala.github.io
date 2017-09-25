@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <line id="svg_22" y2="33.604492" x2="38.608398" y1="56.860352" x1="25.793945" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#005fbf" fill="none"/>
+  <circle id="svg_4" r="10.100277" cy="65.759278" cx="21.166504" stroke-width="2" stroke="#000000" fill="#FF0000"/>
+  <circle id="svg_12" r="10.100277" cy="66.115233" cx="90.815429" stroke-width="2" stroke="#000000" fill="#FF0000"/>
+  <line id="svg_13" y2="65.40332" x2="79.899414" y1="65.166016" x1="31.489258" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#0000bf" fill="none"/>
+  <circle id="svg_16" r="10.100277" cy="24.883546" cx="42.464601" stroke-width="2" stroke="#000000" fill="#FF0000"/>
+  <circle id="svg_20" r="10.100276" cy="105.68579" cx="109.503174" stroke-width="2" stroke="#000000" fill="#FF0000"/>
+  <line id="svg_21" y2="104.973877" x2="98.587158" y1="104.736572" x1="30.71802" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="none"/>
+  <line id="svg_24" y2="96.490234" x2="104.104492" y1="75.844727" x1="94.137695" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#007fff" fill="none"/>
+  <line id="svg_25" y2="75.370117" x2="23.183594" y1="104.795898" x1="30.777344" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="none"/>
+  <line id="svg_26" y2="24.586914" x2="117.393555" y1="57.80957" x1="96.985352" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="none"/>
+  <line id="svg_27" y2="23.875" x2="117.630859" y1="23.875" x1="52.84668" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="none"/>
+  <path id="svg_31" d="m28,89.22c8.993492,-4.302406 18.224281,-29.013016 4.911133,-40.671875" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="none"/>
+ </g>
+</svg>
